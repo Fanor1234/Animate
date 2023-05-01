@@ -136,4 +136,4 @@ STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 
 
 #CSRF_TRUSTED_ORIGINS = ['https://*.mydomain.com']
-CSRF_TRUSTED_ORIGINS = ['https://www.animate-production.up.railway.app/']
+CSRF_TRUSTED_ORIGINS = ['https://*.animate-production.up.railway.app']
